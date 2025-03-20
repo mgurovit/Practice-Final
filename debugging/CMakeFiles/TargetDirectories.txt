@@ -1,0 +1,3 @@
+/home/michelle/Practice final/debugging/CMakeFiles/App.dir
+/home/michelle/Practice final/debugging/CMakeFiles/edit_cache.dir
+/home/michelle/Practice final/debugging/CMakeFiles/rebuild_cache.dir

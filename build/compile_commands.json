@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/michelle/Practice final/build",
+  "command": "/usr/bin/g++  -I\"/home/michelle/Practice final/debugging\" -g -o CMakeFiles/App.dir/debugging/app.cpp.o -c \"/home/michelle/Practice final/debugging/app.cpp\"",
+  "file": "/home/michelle/Practice final/debugging/app.cpp",
+  "output": "CMakeFiles/App.dir/debugging/app.cpp.o"
+},
+{
+  "directory": "/home/michelle/Practice final/build",
+  "command": "/usr/bin/g++  -I\"/home/michelle/Practice final/debugging\" -g -o CMakeFiles/App.dir/debugging/main.cpp.o -c \"/home/michelle/Practice final/debugging/main.cpp\"",
+  "file": "/home/michelle/Practice final/debugging/main.cpp",
+  "output": "CMakeFiles/App.dir/debugging/main.cpp.o"
+},
+{
+  "directory": "/home/michelle/Practice final/build",
+  "command": "/usr/bin/g++  -I\"/home/michelle/Practice final/debugging\" -g -o CMakeFiles/App.dir/debugging/menu.cpp.o -c \"/home/michelle/Practice final/debugging/menu.cpp\"",
+  "file": "/home/michelle/Practice final/debugging/menu.cpp",
+  "output": "CMakeFiles/App.dir/debugging/menu.cpp.o"
+}
+]
